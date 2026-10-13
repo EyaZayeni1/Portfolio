@@ -23,8 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
+# Original screen recordings are too big for GitHub (100 MB limit) and aren't used by
+# the site — only the compressed `*-web.mp4` copies are imported, so those MUST be committed.
 src/assets/projects/Matmaago.mp4
-
-src/assets/projects/Matmaago.mp4
-
-src/assets/projects/Matmaago-web.mp4
